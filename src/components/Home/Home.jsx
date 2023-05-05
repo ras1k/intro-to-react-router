@@ -6,7 +6,6 @@ const Home = () => {
     return (
         <div>
             <Header/>
-            <h3>This is Home lol xx</h3>
             <Outlet></Outlet>
         </div>
     );
