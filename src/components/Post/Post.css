@@ -1,0 +1,7 @@
+.post{
+    border: 1px dotted purple;
+    border-radius: 8px;
+    padding: 10px;
+    margin-bottom: 10px;
+    background-color: rgba(138, 201, 211, 0.158);
+}
